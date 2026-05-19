@@ -1,0 +1,338 @@
+[{
+  "_id": {
+    "$oid": "6a088d28ae828cb02f180c85"
+  },
+  "name": "Avengers Endgame",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
+  "year": 2019,
+  "genre": "Action",
+  "detail": "Avengers: Endgame is an epic superhero action film that serves as the emotional and thrilling conclusion to over a decade of storytelling in the Marvel Cinematic Universe. After the devastating events of Infinity War, where Thanos wipes out half of all life in the universe using the Infinity Stones, the remaining Avengers struggle with grief, failure, and hopelessness. Determined to undo the destruction and bring back the lost heroes, the team comes together one final time for a dangerous mission that involves time travel, sacrifice, and the ultimate battle for the fate of the universe. The movie beautifully combines emotional character moments, powerful action sequences, humor, friendship, and unforgettable cinematic scenes while giving closure to many beloved Marvel heroes. Featuring massive battles, shocking twists, emotional sacrifices, and one of the greatest climactic finales in superhero movie history, Avengers: Endgame became a worldwide cinematic phenomenon loved by millions of fans.",
+  "casts": [
+    "Robert Downey Jr",
+    "Chris Evans"
+  ],
+  "numReviews": 100,
+  "rating": 4.8,
+  "trailer:": "https://www.youtube.com/embed/Lr5yJYlWMao "
+},
+{
+  "_id": {
+    "$oid": "6a088ed3ae828cb02f180c8d"
+  },
+  "name": "Interstellar",
+  "image": "https://m.media-amazon.com/images/I/91kFYg4fX3L.jpg ",
+  "year": 2014,
+  "genre": "Sci-Fi",
+  "detail": "Interstellar is a visually breathtaking science fiction epic directed by Christopher Nolan that explores space travel, time, love, survival, and the future of humanity. Set in a near future where Earth is slowly becoming uninhabitable due to environmental collapse and food shortages, the story follows Cooper, a former NASA pilot who joins a dangerous space mission to search for a new habitable planet for mankind. Traveling through wormholes, distant galaxies, and unknown dimensions, the crew faces impossible challenges where even time itself behaves differently. The movie combines emotional storytelling, complex scientific theories, stunning visual effects, and powerful music to create a deeply emotional and thought-provoking cinematic experience about sacrifice, hope, family, and human survival.",
+  "casts": [
+    "Matthew McConaughey",
+    "Anne Hathaway"
+  ],
+  "rating": 4.9,
+  "numReviews": 1500,
+  "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E"
+},
+{
+  "_id": {
+    "$oid": "6a088ee0ae828cb02f180c8f"
+  },
+  "name": "John Wick",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",
+  "year": 2019,
+  "genre": "Action",
+  "detail": "John Wick is a stylish and action-packed thriller that follows the story of a retired legendary assassin who is forced back into the dangerous world of crime and contract killing after a personal tragedy changes his life forever. Known throughout the underworld as one of the deadliest hitmen ever, John Wick becomes the target of powerful criminal organizations while seeking revenge against those who destroyed the last emotional connection he had left. The movie is famous for its intense gun-fu combat choreography, stylish visuals, emotional depth, fast-paced action sequences, underground assassin society, and powerful world-building. With nonstop action, thrilling fight scenes, and Keanu Reeves’ iconic performance, John Wick became one of the most successful modern action franchises in cinema.",
+  "casts": [
+    "Keanu Reeves"
+  ],
+  "rating": 4.7,
+  "numReviews": 800,
+  "trailer": "https://www.youtube.com/embed/C0BMx-qxsP4"
+},
+{
+  "_id": {
+    "$oid": "6a088f2eae828cb02f180c91"
+  },
+  "name": "KGF Chapter 1",
+  "image": "https://image.tmdb.org/t/p/w500/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg",
+  "year": 2018,
+  "genre": "Action",
+  "detail": "KGF Chapter 1 is a high-energy Indian action drama that tells the inspiring and powerful story of Rocky, a fearless young man who rises from poverty and hardship to become one of the most dangerous and influential gangsters in the gold mining empire of Kolar Gold Fields. Set in the 1970s and 1980s, the movie follows Rocky’s journey through violence, ambition, sacrifice, and survival as he fights powerful enemies and enters the brutal world of gold smuggling and political corruption. Packed with mass action scenes, emotional moments, powerful dialogues, stylish cinematography, and an unforgettable background score, KGF Chapter 1 became a pan-Indian cinematic phenomenon that redefined action storytelling in Indian cinema.\"",
+  "casts": [
+    "Yash",
+    "Srinidhi Shetty"
+  ],
+  "rating": 4.8,
+  "numReviews": 2200,
+  "trailer": "https://www.youtube.com/embed/qXgF-iJ_ezE"
+},
+{
+  "_id": {
+    "$oid": "6a088f3fae828cb02f180c93"
+  },
+  "name": "Kantara",
+  "image": "/images/Kantara.jpg",
+  "year": 2022,
+  "genre": "Thriller",
+  "detail": "Kantara is a visually stunning action thriller rooted deeply in Indian folklore, tradition, and spirituality. Set in the coastal forests of Karnataka, the movie explores the conflict between humans, nature, greed, and divine beliefs while following the journey of a rebellious young man caught between tradition and power. Filled with breathtaking cinematography, emotional storytelling, intense action sequences, and powerful cultural elements, the film beautifully portrays the relationship between humans and nature. The climax sequence, inspired by traditional Bhoota Kola rituals, became one of the most talked-about cinematic moments in Indian cinema and made Kantara a nationwide phenomenon.",
+  "casts": [
+    "Rishab Shetty"
+  ],
+  "rating": 4.9,
+  "numReviews": 3100,
+  "trailer": "https://www.youtube.com/embed/8mrVmf239GU"
+},
+{
+  "_id": {
+    "$oid": "6a088f4cae828cb02f180c95"
+  },
+  "name": "RRR",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d7/RRR_Poster.jpg",
+  "year": 2022,
+  "genre": "Action",
+  "detail": "RRR is a massive historical action epic directed by S. S. Rajamouli that tells a fictional story inspired by the lives of Indian freedom fighters Alluri Sitarama Raju and Komaram Bheem. Set during British colonial rule in India, the movie follows two fearless warriors whose paths cross during a revolution against oppression and injustice. Packed with emotional drama, breathtaking visuals, large-scale action sequences, patriotic themes, and unforgettable musical moments, RRR delivers a larger-than-life cinematic experience. The film became globally recognized for its storytelling, action choreography, emotional depth, and spectacular cinematic presentation.",
+  "casts": [
+    "NTR Jr",
+    "Ram Charan"
+  ],
+  "rating": 4.9,
+  "numReviews": 4000,
+  "trailer": "https://www.youtube.com/embed/NgBoMJy386M"
+},
+{
+  "_id": {
+    "$oid": "6a088f5bae828cb02f180c97"
+  },
+  "name": "Pushpa 2 ",
+  "image": "/images/Pushpa 2.jpg",
+  "year": 2021,
+  "genre": "Action",
+  "detail": "Pushpa 2 continues the explosive journey of Pushpa Raj as he rises higher in the dangerous world of red sandalwood smuggling while facing powerful enemies, political conspiracies, and brutal revenge. After becoming one of the most feared figures in the criminal underworld, Pushpa must fight to protect his empire, pride, and identity against those who want to destroy him. Filled with intense action, emotional drama, powerful dialogues, mass elevation scenes, and stylish visuals, the movie promises a bigger and more intense cinematic experience than its predecessor while showcasing Pushpa’s fearless attitude and unstoppable ambition.",
+  "casts": [
+    "Allu Arjun",
+    "Rashmika Mandanna"
+  ],
+  "rating": 4.7,
+  "numReviews": 2700,
+  "trailer": "https://www.youtube.com/embed/g3JUbgOHgdw"
+},
+{
+  "_id": {
+    "$oid": "6a088f69ae828cb02f180c99"
+  },
+  "name": "Inception",
+  "image": "https://m.media-amazon.com/images/I/81p+xe8cbnL.jpg",
+  "year": 2010,
+  "genre": "Sci-Fi",
+  "detail": "Inception is a mind-bending science fiction thriller directed by Christopher Nolan that explores the complex world of dreams, subconscious manipulation, and reality itself. The story follows Dom Cobb, a skilled thief who enters people’s dreams to steal valuable secrets hidden deep within their subconscious minds. He is offered a chance at redemption through a dangerous mission called inception — planting an idea into someone’s mind instead of stealing one. As the team dives deeper into layered dreams where time behaves differently, the line between reality and illusion slowly begins to blur. Filled with stunning visual effects, emotional storytelling, intelligent writing, and thrilling action sequences, Inception became one of the most iconic sci-fi films ever created.",
+  "casts": [
+    "Leonardo DiCaprio"
+  ],
+  "rating": 4.9,
+  "numReviews": 5000,
+  "trailer": "https://www.youtube.com/embed/YoHD9XEInc0"
+},
+{
+  "_id": {
+    "$oid": "6a088f76ae828cb02f180c9b"
+  },
+  "name": "The Batman",
+  "image": "/images/The Batman.jpg",
+  "year": 2022,
+  "genre": "Action",
+  "detail": "The Batman is a dark and gritty superhero crime thriller that presents a more emotional and detective-focused version of Bruce Wayne. Set during Batman’s early years as Gotham City’s vigilante protector, the movie follows him as he investigates a series of brutal murders committed by the mysterious Riddler, a dangerous serial killer targeting corrupt elites. As Batman uncovers hidden secrets within Gotham’s criminal underworld, he is forced to confront corruption, fear, and his own inner struggles. With intense action, emotional depth, stunning cinematography, and a dark atmospheric tone, The Batman delivers a grounded and realistic interpretation of the legendary DC superhero.",
+  "casts": [
+    "Robert Pattinson"
+  ],
+  "rating": 4.7,
+  "numReviews": 1900,
+  "trailer": "https://www.youtube.com/embed/NLOp_6uPccQ"
+},
+{
+  "_id": {
+    "$oid": "6a088f82ae828cb02f180c9d"
+  },
+  "name": "3 Idiots",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/df/3_idiots_poster.jpg",
+  "year": 2009,
+  "genre": "Comedy",
+  "detail": "3 Idiots is an emotional and inspiring comedy-drama that explores friendship, education, pressure, dreams, and the true meaning of success. The movie follows three engineering students navigating the intense academic system of one of India’s top colleges while struggling with family expectations and personal ambitions. Through humor, emotional storytelling, and powerful life lessons, the film questions traditional education methods that prioritize marks over creativity and passion. Filled with unforgettable characters, emotional moments, comedy, and motivational themes, 3 Idiots became one of the most loved and influential films in Indian cinema history.",
+  "casts": [
+    "Aamir Khan"
+  ],
+  "rating": 4.9,
+  "numReviews": 4500,
+  "trailer": "https://www.youtube.com/embed/xvszmNXdM4w"
+},
+{
+  "_id": {
+    "$oid": "6a088f92ae828cb02f180c9f"
+  },
+  "name": "Pathaan",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+  "year": 2023,
+  "genre": "Action",
+  "detail": "Pathaan is a high-octane spy action thriller set in the YRF Spy Universe starring Shah Rukh Khan as a fearless intelligence agent who returns from exile to protect India from a dangerous terrorist threat. As a deadly enemy plans a massive attack capable of causing national destruction, Pathaan embarks on a dangerous global mission involving high-speed chases, stylish action sequences, advanced technology, and explosive confrontations. Filled with larger-than-life action, emotional patriotism, stylish visuals, and thrilling suspense, the movie marked Shah Rukh Khan’s grand comeback and became one of the biggest blockbusters in Indian cinema.",
+  "casts": [
+    "Shah Rukh Khan",
+    "Deepika Padukone"
+  ],
+  "rating": 4.6,
+  "numReviews": 2100,
+  "trailer": "https://www.youtube.com/embed/4xl9KfUg8Lc"
+},
+{
+  "_id": {
+    "$oid": "6a09d3eeae828cb02f180ca2"
+  },
+  "name": "Jailer",
+  "image": "https://upload.wikimedia.org/wikipedia/en/c/cb/Jailer_2023_Tamil_film_poster.jpg",
+  "year": 2023,
+  "genre": "Action",
+  "detail": "Jailer is a powerful action entertainer starring Rajinikanth as a retired prison warden who is forced to return to violence after his family becomes entangled in a dangerous criminal conspiracy. Calm and respected on the outside but deadly when provoked, he takes on powerful gangsters and criminal networks using intelligence, fearlessness, and brutal action. The movie combines emotional family drama, stylish action, dark humor, mass elevation scenes, and Rajinikanth’s iconic screen presence to create a complete cinematic entertainer. Supported by a strong background score and intense action moments, Jailer became one of the biggest commercial successes in Indian cinema.",
+  "rating": 4.7,
+  "numReviews": 2100,
+  "trailer": "https://www.youtube.com/embed/aaNq2NL6D4A"
+},
+{
+  "_id": {
+    "$oid": "6a09d3fbae828cb02f180ca4"
+  },
+  "name": "Leo",
+  "image": "/images/leo.jpg",
+  "year": 2023,
+  "genre": "Action",
+  "detail": "Leo is an intense action thriller directed by Lokesh Kanagaraj that follows the story of Parthiban, a quiet café owner living peacefully with his family in Himachal Pradesh. His simple life changes completely after he becomes involved in a violent incident that attracts dangerous gangsters from his mysterious past. As hidden secrets slowly unfold, Parthiban is forced to confront ruthless enemies, brutal violence, and his own identity. Packed with stylish action sequences, emotional drama, suspense, powerful performances, and connections to the Lokesh Cinematic Universe, Leo delivers a gripping cinematic experience filled with thrilling moments and mass action entertainment.",
+  "rating": 4.6,
+  "numReviews": 1700,
+  "trailer": "https://www.youtube.com/embed/FZYhL_bVQUQ"
+},
+{
+  "_id": {
+    "$oid": "6a09d409ae828cb02f180ca6"
+  },
+  "name": "Salaar",
+  "image": "/images/salaar.jpg",
+  "year": 2023,
+  "genre": "Action",
+  "detail": "Salaar is a massive action drama starring Prabhas in a powerful role set within a dark and violent world ruled by gangs, politics, betrayal, and bloodshed. The movie follows the journey of a fearless warrior who rises against powerful enemies to protect friendship, loyalty, and his people. Filled with large-scale action sequences, emotional storytelling, brutal fight scenes, and stunning visuals, Salaar presents an intense cinematic experience inspired by themes of power, revenge, and survival. With high-energy action and larger-than-life storytelling, the movie became one of the most anticipated Indian action films.",
+  "rating": 4.8,
+  "numReviews": 2500,
+  "trailer": "https://www.youtube.com/embed/bUR_FKt7Iso"
+},
+{
+  "_id": {
+    "$oid": "6a09d415ae828cb02f180ca8"
+  },
+  "name": "Vikram",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Vikram_2022_poster.jpg",
+  "year": 2022,
+  "genre": "Action",
+  "detail": "Vikram is a stylish action thriller directed by Lokesh Kanagaraj that revolves around a retired black-ops commander who secretly returns to eliminate a dangerous drug syndicate threatening society. As mysterious killings begin taking place, hidden operations and criminal networks slowly come to light, leading to an intense battle between powerful enemies and a fearless vigilante force. Packed with explosive action, emotional depth, suspense, mass elevation moments, and powerful performances, the movie also expands the Lokesh Cinematic Universe with thrilling connections to previous stories. Vikram became highly celebrated for its storytelling, stylish execution, and unforgettable climax.",
+  "rating": 4.8,
+  "numReviews": 1900,
+  "trailer": "https://www.youtube.com/embed/NXSigiaZ0W0"
+},
+{
+  "_id": {
+    "$oid": "6a09d42cae828cb02f180cac"
+  },
+  "name": "Spider-Man No Way Home",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Spider-Man_No_Way_Home_poster.jpg",
+  "year": 2021,
+  "genre": "Superhero",
+  "detail": "Spider-Man: No Way Home is an emotional and action-packed superhero film that follows Peter Parker after his identity as Spider-Man is revealed to the world. Struggling with the consequences of fame, danger, and public attention, Peter seeks help from Doctor Strange to restore his normal life. However, a magical spell goes wrong and accidentally opens the multiverse, bringing dangerous villains and unexpected heroes from alternate Spider-Man universes into his reality. Filled with emotional moments, thrilling action, nostalgia, humor, sacrifice, and epic multiverse battles, the movie became one of the most loved and successful superhero films ever made.",
+  "rating": 4.9,
+  "numReviews": 5000,
+  "trailer": "https://www.youtube.com/embed/JfVOs4VSpmA"
+},
+{
+  "_id": {
+    "$oid": "6a09d437ae828cb02f180cae"
+  },
+  "name": "Oppenheimer",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Oppenheimer_%28film%29.jpg",
+  "year": 2023,
+  "genre": "Drama",
+  "detail": "Oppenheimer is a powerful biographical thriller directed by Christopher Nolan that tells the story of J. Robert Oppenheimer, the physicist who led the Manhattan Project during World War II and became known as the father of the atomic bomb. The film explores his journey through scientific discovery, political pressure, moral conflict, and personal sacrifice as he helps create one of the most destructive weapons in human history. Combining emotional storytelling, courtroom drama, intense performances, and breathtaking IMAX cinematography, the movie examines the devastating consequences of scientific innovation and the burden carried by the man who changed the world forever.",
+  "rating": 4.9,
+  "numReviews": 4200,
+  "trailer": "https://www.youtube.com/embed/bK6ldnjE3Y0"
+},
+{
+  "_id": {
+    "$oid": "6a09eb57ae828cb02f180cb4"
+  },
+  "name": "Toxic",
+  "image": "/images/toxic.jpg",
+  "year": 2026,
+  "genre": "Action",
+  "detail": "Toxic is a stylish gangster action entertainer starring Yash in a fierce and powerful new avatar set within a dangerous criminal underworld ruled by greed, violence, betrayal, and power struggles. The story follows the rise of a fearless man who challenges powerful enemies and builds his own empire while facing emotional conflicts and deadly rivalries. Packed with stylish visuals, intense action sequences, emotional drama, mass elevation scenes, and larger-than-life cinematic moments, Toxic promises a grand theatrical experience designed to combine raw action with emotional storytelling and high-energy entertainment.",
+  "cast": [
+    "Yash"
+  ],
+  "trailer": "https://www.youtube.com/embed/cJXTUyEih7Y",
+  "numReviews": 0
+},
+{
+  "_id": {
+    "$oid": "6a09ec73ae828cb02f180cb6"
+  },
+  "name": "Avengers: Doomsday",
+  "image": "/images/vengersdoomsday.jpg",
+  "year": 2026,
+  "genre": "Action",
+  "detail": "Avengers: Doomsday is a massive Marvel multiverse action epic where Earth's mightiest heroes face one of the greatest threats ever seen in the Marvel Cinematic Universe. As timelines collapse and universes begin colliding, chaos spreads across reality itself, threatening the existence of every world in the multiverse. The Avengers must unite with powerful allies from different dimensions to stop Doctor Doom, a brilliant and dangerous ruler whose power and intelligence make him one of the deadliest enemies Marvel heroes have ever faced. Filled with large-scale action, emotional sacrifices, advanced technology, multiverse travel, and epic superhero battles, the movie promises breathtaking visuals, shocking twists, and one of the biggest cinematic events in Marvel history.",
+  "cast": [
+    "Robert Downey Jr.",
+    "Tom Holland"
+  ],
+  "trailer": "https://www.youtube.com/embed/gHpElXQ_roc",
+  "numReviews": 0
+},
+{
+  "_id": {
+    "$oid": "6a09eccaae828cb02f180cb8"
+  },
+  "name": "Spider-Man: Brand New Day",
+  "image": "/images/spiderman2026.jpg",
+  "year": 2026,
+  "genre": "Action",
+  "detail": "Spider-Man: Brand New Day follows Peter Parker after the emotional and life-changing events of No Way Home, where the entire world forgets his identity as Spider-Man. Forced to begin his life from scratch, Peter struggles with loneliness, responsibility, and the challenges of surviving without the support of friends or family. As new threats rise across New York City, Spider-Man must protect innocent people while trying to rebuild his own future. Filled with emotional storytelling, thrilling web-slinging action, powerful character development, humor, and intense superhero battles, the movie presents a more mature and independent version of Spider-Man facing some of the toughest challenges of his life.",
+  "cast": [
+    "Tom Holland"
+  ],
+  "trailer": "https://www.youtube.com/embed/Tt5F0DQoWJA",
+  "numReviews": 0
+},
+{
+  "_id": {
+    "$oid": "6a09ed5bae828cb02f180cba"
+  },
+  "name": "Ramayana",
+  "image": "/images/ramayana.jpg",
+  "year": 2026,
+  "genre": "Mythology",
+  "detail": "Ramayana is a grand cinematic adaptation of India’s legendary mythological epic that brings one of the greatest stories ever told to life with breathtaking visuals and emotional storytelling. The movie follows the divine journey of Lord Rama, Sita, Lakshmana, and Hanuman as they battle against evil forces led by Ravana, the powerful king of Lanka. Filled with themes of devotion, sacrifice, courage, loyalty, love, and dharma, the story explores the eternal victory of good over evil. Massive war sequences, divine powers, ancient kingdoms, emotional character arcs, and rich Indian cultural traditions are combined with modern cinematic technology to create one of the most ambitious mythological cinematic universes ever made in Indian cinema.",
+  "cast": [
+    "Ranbir Kapoor",
+    "Sai Pallavi"
+  ],
+  "trailer": "https://www.youtube.com/embed/gzUu-FJ7s-Y",
+  "numReviews": 0
+},
+{
+  "_id": {
+    "$oid": "6a0abbd032edc9fd320dd35b"
+  },
+  "name": "King",
+  "image": "/images/king.jpg",
+  "year": 2026,
+  "genre": "Action",
+  "detail": "King is a high-budget action thriller starring Shah Rukh Khan in a powerful and intense role set in a dangerous world filled with crime, revenge, betrayal, and emotional conflict. The story follows a highly skilled and fearless man who becomes trapped in a deadly battle against powerful enemies and criminal organizations while protecting the people closest to him. Packed with stylish action sequences, emotional drama, suspense, thrilling confrontations, and Shah Rukh Khan’s charismatic screen presence, the movie promises to deliver a grand cinematic experience with large-scale visuals and intense storytelling.",
+  "cast": [
+    "Shah Rukh Khan"
+  ],
+  "trailer": "https://www.youtube.com/embed/bNUqsMZrkmo",
+  "rating": 4.8,
+  "numReviews": 0
+}]
