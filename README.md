@@ -172,18 +172,6 @@ Movie Data & User Data
 
 ---
 
-## 🎬 Demo Video
-
-(Add Demo Video Link Here)
-
-Example:
-
-```text
-https://youtu.be/your-demo-link
-```
-
----
-
 ## 📂 Project Structure
 
 ```bash
